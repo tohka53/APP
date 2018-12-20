@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493354513131",
+    "firebase_url": "https://videocall-1cefb.firebaseio.com",
+    "project_id": "videocall-1cefb",
+    "storage_bucket": "videocall-1cefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493354513131:android:4549bf0092ae1e64",
+        "android_client_info": {
+          "package_name": "com.example.informatica.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493354513131-t2tb618h74kh81fvgkbtosbj6t1ige5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.informatica.videocall",
+            "certificate_hash": "f56165112150d22d9e40d8cf2171bd1585b40c4d"
+          }
+        },
+        {
+          "client_id": "493354513131-mlm1fgoo81n1qmjo19sodnnkllqgt4gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwP-g_cUeT40XzI_KBQb5Bs_alXBu2us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493354513131-mlm1fgoo81n1qmjo19sodnnkllqgt4gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
