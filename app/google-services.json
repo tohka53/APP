@@ -49,6 +49,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493354513131:android:956ece4171354e8f",
+        "android_client_info": {
+          "package_name": "flp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493354513131-k9vjpc34a725lqehhbhhoh7gs0u5aurq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "flp.app",
+            "certificate_hash": "b53c8338196025f1efb3649598f8ac3683530fba"
+          }
+        },
+        {
+          "client_id": "493354513131-mlm1fgoo81n1qmjo19sodnnkllqgt4gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwP-g_cUeT40XzI_KBQb5Bs_alXBu2us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493354513131-mlm1fgoo81n1qmjo19sodnnkllqgt4gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
