@@ -20,7 +20,8 @@
         <activity
             android:name=".ltmn"
             android:label="@string/title_activity_ltmn"
-            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".ctm"></activity>
     </application>
 
 </manifest>
